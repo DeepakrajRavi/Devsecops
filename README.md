@@ -89,7 +89,7 @@ docker run -p 1010:80 devsecops-demo:latest
 ```
 
 **K8s Deployment (Kind/Minikube):**
-- Install ArgoCD and Helm, create required secrets, and apply `deployment.yaml` (see docs in repo).
+- Install ArgoCD and create required secrets.
 
 ---
 
@@ -109,7 +109,7 @@ docker run -p 1010:80 devsecops-demo:latest
 
 ### 3. GitHub Actions Pipeline
 **Description:** CI/CD: All pipeline stages passed (green) in GitHub Actions  
-![GitHub Actions pipeline - all green](./screenshots/githubpipeline.png)
+![GitHub Actions pipeline - all green](./screenshots/githubpieline.png)
 
 ---
 
