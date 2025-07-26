@@ -165,5 +165,4 @@ docker run -p 1010:80 devsecops-demo:latest
 ## 🙋‍♂️ Author
 
 **Deepakraj Ravi**  
-Cloud Computing (Post-Grad), George Brown College  
-[LinkedIn](https://www.linkedin.com/in/deepakrajravi/) | [Portfolio](https://deepakraj.dev/resume)
+[LinkedIn](https://www.linkedin.com/in/deepakraj-ravi-ba5b1925b/) | [Portfolio](https://deepakraj.dev/resume)
