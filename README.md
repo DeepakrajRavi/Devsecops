@@ -109,7 +109,7 @@ docker run -p 1010:80 devsecops-demo:latest
 
 ### 3. GitHub Actions Pipeline
 **Description:** CI/CD: All pipeline stages passed (green) in GitHub Actions  
-![GitHub Actions pipeline - all green](./screenshots/githubpieline.png)
+![GitHub Actions pipeline - all green](./screenshots/Githubpieline.png)
 
 ---
 
